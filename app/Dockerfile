@@ -8,7 +8,7 @@ RUN pip install -r requirements.txt
 
 COPY api api
 COPY migrations migrations
-COPY microblog.py config.py boot.sh ./
+COPY assistant.py config.py boot.sh ./
 
 EXPOSE 5000
 CMD ./boot.sh
