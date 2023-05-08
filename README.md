@@ -49,3 +49,6 @@ npm run serve
 ```
 
 # Презентация приложения
+
+
+https://user-images.githubusercontent.com/46228366/236942665-2bd44ef3-8547-4a41-abd7-54aa1e03bfc7.mp4
